@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 170f34acd95fdcc4e85351b9f8f997d6, type: 3}
+  m_Name: Red Shift Down Tower
+  m_EditorClassIdentifier: 
+  visual: {fileID: 8909361935899409433, guid: 21ec08df99eac954eb9efd6114b8587e, type: 3}
+  icon: {fileID: 0}
+  abilityId: ShiftPotionDownRed

@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5769195816128380560
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2213056221759853851, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: back
+      value: 
+      objectReference: {fileID: 2940718421495967877}
+    - target: {fileID: 2213056221759853851, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: logo
+      value: 
+      objectReference: {fileID: 2385694782686990004}
+    - target: {fileID: 2213056221759853851, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: front
+      value: 
+      objectReference: {fileID: 8540135310568183418}
+    - target: {fileID: 2780105076921837802, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f144e88f63d328544a8e9285f66397ca, type: 3}
+    - target: {fileID: 2859039879489341559, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 2859039879489341559, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2859039879489341559, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2859039879489341559, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2859039879489341559, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2859039879489341559, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2859039879489341559, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2859039879489341559, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2859039879489341559, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2859039879489341559, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3079755325971664762, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_Name
+      value: Blue Contract
+      objectReference: {fileID: 0}
+    - target: {fileID: 8709903224254402069, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: a0f0330b5526e424db22870468fc3f3b, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+--- !u!212 &2385694782686990004 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 8145883373253947428, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+  m_PrefabInstance: {fileID: 5769195816128380560}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &2940718421495967877 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 8709903224254402069, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+  m_PrefabInstance: {fileID: 5769195816128380560}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &8540135310568183418 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 2780105076921837802, guid: 12aca54fdbdd110419c4a65145db8954, type: 3}
+  m_PrefabInstance: {fileID: 5769195816128380560}
+  m_PrefabAsset: {fileID: 0}
